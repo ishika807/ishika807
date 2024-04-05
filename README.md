@@ -2,7 +2,7 @@
 
 🌐 Web Development Novice | 📊 Intermediate in Data Structures and Algorithms | ✍️ Content Writer
 
-🎯 Currently, I'm focused on honing my web development skills and learning new technologies to build exciting projects. I enjoy exploring front-end frameworks and diving into back-end development.
+🎯 Currently, I'm focused on honing my web development skills and learning new technologies to build exciting projects. I enjoy exploring front-end frameworks.
 
 📚 When it comes to Data Structures and Algorithms (DSA), I'm comfortable with intermediate-level problem-solving. Constantly challenging myself with coding puzzles and algorithmic challenges.
 
